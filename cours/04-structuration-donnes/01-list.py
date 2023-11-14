@@ -43,3 +43,8 @@ print(b)
 
 # import copy
 # b = copy.deepcopy(a)
+
+# Présence de valeur
+chats = ['titi', 'minou', 'minet']
+if "minou" in chats:
+    print("Le nom est présent.")
