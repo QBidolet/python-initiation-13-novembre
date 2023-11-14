@@ -8,6 +8,14 @@ Bonus : ne pas pouvoir saisir deux fois le même nom
 et afficher le numéro du chat à saisir
 ( exemple : saisir chat numéro 1 etc ... )
 """
+# boucler
+    # demander utiliseur saisie chat
+    # est ce que nom est déjà dans liste ?
+    # ajouter dans liste
+    # voulez vous continuer ?
+
+# affichage
+
 
 
 
